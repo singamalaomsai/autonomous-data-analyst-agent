@@ -4,6 +4,8 @@ An autonomous data analytics web application powered by *Streamlit, **Groq LLM, 
 
 🔗 *Live Demo:* [https://autonomous-data-analyst-507.streamlit.app](https://autonomous-data-analyst-507.streamlit.app)
 
+<img width="1881" height="989" alt="Screenshot 2026-09-01 120934" src="https://github.com/user-attachments/assets/e168c2b7-1a08-4741-a37f-baa53ce10475" />
+
 ---
 
 ## 🚀 Key Features
