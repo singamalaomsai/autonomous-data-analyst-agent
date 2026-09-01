@@ -1,0 +1,601 @@
+order_id,region,customer_type,product_category,quantity_sold,unit_price,discount_pct,customer_rating,returned,gross_sales,net_sales,profit
+ORD-1000,South,Direct Farmer,Office Tech,5,460.68,0.2,5,0,2303.4,1842.72,175.06
+ORD-1001,West,Direct Farmer,Hardware,20,154.42,0.1,5,0,3088.4,2779.56,623.86
+ORD-1002,East,Direct Farmer,Hardware,21,432.0,0.0,5,0,9072.0,9072.0,2540.16
+ORD-1003,East,Direct Farmer,Machinery,8,160.26,0.05,3,0,1282.08,1217.98,455.14
+ORD-1004,North,Direct Farmer,Machinery,14,457.17,0.1,1,0,6400.38,5760.34,1984.12
+ORD-1005,North,Retail Co-op,Office Tech,4,381.9,0.0,4,0,1527.6,1527.6,336.07
+ORD-1006,North,Direct Farmer,Office Tech,11,406.36,0.05,2,0,4469.96,4246.46,822.47
+ORD-1007,West,Retail Co-op,Machinery,20,28.64,0.1,1,0,572.8,515.52,177.57
+ORD-1008,East,Retail Co-op,Hardware,15,482.15,0.0,4,0,7232.25,7232.25,2025.03
+ORD-1009,East,Commercial Enterprise,Logistics Supplies,19,368.8,0.05,5,0,7007.2,6656.84,1023.05
+ORD-1010,North,Direct Farmer,Machinery,7,166.28,0.1,4,0,1163.96,1047.56,360.83
+ORD-1011,West,Commercial Enterprise,Machinery,19,418.11,0.05,3,1,7944.09,7546.89,2820.15
+ORD-1012,West,Commercial Enterprise,Hardware,19,155.13,0.0,4,1,2947.47,2947.47,825.29
+ORD-1013,North,Direct Farmer,Office Tech,11,438.92,0.0,3,0,4828.12,4828.12,1062.19
+ORD-1014,North,Distributor,Office Tech,5,74.04,0.0,1,0,370.2,370.2,81.44
+ORD-1015,North,Distributor,Hardware,5,357.77,0.2,5,0,1788.85,1431.08,221.82
+ORD-1016,South,Direct Farmer,Hardware,22,279.54,0.0,4,0,6149.88,6149.88,1721.97
+ORD-1017,South,Direct Farmer,Office Tech,8,66.34,0.05,5,0,530.72,504.18,97.65
+ORD-1018,South,Commercial Enterprise,Office Tech,10,136.11,0.0,1,0,1361.1,1361.1,299.44
+ORD-1019,North,Commercial Enterprise,Hardware,6,25.95,0.0,5,0,155.7,155.7,43.6
+ORD-1020,East,Direct Farmer,Logistics Supplies,15,245.01,0.15,4,0,3675.15,3123.88,286.66
+ORD-1021,North,Direct Farmer,Hardware,16,164.61,0.1,4,0,2633.76,2370.38,532.02
+ORD-1022,North,Retail Co-op,Machinery,17,307.21,0.0,4,0,5222.57,5222.57,2089.03
+ORD-1023,South,Retail Co-op,Logistics Supplies,8,162.67,0.05,5,0,1301.36,1236.29,190.0
+ORD-1024,South,Commercial Enterprise,Machinery,8,163.96,0.0,4,0,1311.68,1311.68,524.67
+ORD-1025,West,Retail Co-op,Office Tech,9,376.73,0.05,4,0,3390.57,3221.04,623.86
+ORD-1026,North,Retail Co-op,Machinery,2,43.11,0.1,5,0,86.22,77.6,26.73
+ORD-1027,South,Commercial Enterprise,Hardware,15,453.39,0.0,5,0,6800.85,6800.85,1904.24
+ORD-1028,East,Direct Farmer,Logistics Supplies,18,429.09,0.0,4,1,7723.62,7723.62,1390.25
+ORD-1029,North,Direct Farmer,Machinery,3,340.55,0.0,4,0,1021.65,1021.65,408.66
+ORD-1030,East,Commercial Enterprise,Logistics Supplies,17,304.75,0.2,4,1,5180.75,4144.6,227.95
+ORD-1031,North,Distributor,Hardware,4,448.31,0.2,3,1,1793.24,1434.59,222.36
+ORD-1032,North,Retail Co-op,Hardware,4,108.96,0.0,4,0,435.84,435.84,122.04
+ORD-1033,West,Retail Co-op,Hardware,14,57.91,0.1,5,0,810.74,729.67,163.77
+ORD-1034,West,Direct Farmer,Office Tech,9,134.96,0.0,5,0,1214.64,1214.64,267.22
+ORD-1035,West,Retail Co-op,Machinery,9,401.4,0.0,3,0,3612.6,3612.6,1445.04
+ORD-1036,South,Retail Co-op,Logistics Supplies,23,36.64,0.1,4,0,842.72,758.45,94.39
+ORD-1037,North,Direct Farmer,Machinery,18,299.75,0.2,3,0,5395.5,4316.4,1187.01
+ORD-1038,East,Direct Farmer,Logistics Supplies,10,497.81,0.2,5,0,4978.1,3982.48,219.04
+ORD-1039,South,Retail Co-op,Hardware,21,430.73,0.05,5,0,9045.33,8593.06,2179.92
+ORD-1040,North,Direct Farmer,Logistics Supplies,4,270.29,0.0,4,0,1081.16,1081.16,194.61
+ORD-1041,South,Direct Farmer,Office Tech,12,50.55,0.1,5,0,606.6,545.94,89.78
+ORD-1042,North,Direct Farmer,Office Tech,8,419.06,0.0,4,0,3352.48,3352.48,737.55
+ORD-1043,West,Direct Farmer,Office Tech,2,307.51,0.05,4,0,615.02,584.27,113.16
+ORD-1044,North,Direct Farmer,Office Tech,22,75.17,0.0,2,0,1653.74,1653.74,363.82
+ORD-1045,East,Distributor,Office Tech,13,65.05,0.1,4,1,845.65,761.08,125.16
+ORD-1046,South,Retail Co-op,Hardware,21,456.62,0.0,4,0,9589.02,9589.02,2684.93
+ORD-1047,South,Commercial Enterprise,Hardware,16,341.22,0.0,4,0,5459.52,5459.52,1528.67
+ORD-1048,South,Commercial Enterprise,Logistics Supplies,2,418.06,0.2,4,0,836.12,668.9,36.79
+ORD-1049,North,Retail Co-op,Office Tech,11,441.91,0.0,5,0,4861.01,4861.01,1069.42
+ORD-1050,West,Direct Farmer,Office Tech,10,294.45,0.05,3,0,2944.5,2797.28,541.79
+ORD-1051,West,Retail Co-op,Machinery,15,268.37,0.0,4,0,4025.55,4025.55,1610.22
+ORD-1052,West,Retail Co-op,Hardware,17,226.61,0.0,4,0,3852.37,3852.37,1078.66
+ORD-1053,West,Commercial Enterprise,Hardware,8,172.13,0.0,4,1,1377.04,1377.04,385.57
+ORD-1054,East,Retail Co-op,Office Tech,18,228.61,0.0,4,1,4114.98,4114.98,905.3
+ORD-1055,West,Direct Farmer,Machinery,23,391.46,0.15,3,0,9003.58,7653.04,2385.95
+ORD-1056,North,Direct Farmer,Hardware,9,308.92,0.0,3,0,2780.28,2780.28,778.48
+ORD-1057,North,Retail Co-op,Machinery,8,448.41,0.2,4,0,3587.28,2869.82,789.2
+ORD-1058,North,Commercial Enterprise,Hardware,14,232.82,0.05,4,0,3259.48,3096.51,785.54
+ORD-1059,South,Retail Co-op,Office Tech,18,311.4,0.05,3,0,5605.2,5324.94,1031.36
+ORD-1060,South,Retail Co-op,Hardware,22,323.03,0.05,4,0,7106.66,6751.33,1712.71
+ORD-1061,North,Distributor,Office Tech,20,304.01,0.05,4,0,6080.2,5776.19,1118.76
+ORD-1062,West,Commercial Enterprise,Machinery,20,357.26,0.1,4,1,7145.2,6430.68,2215.01
+ORD-1063,South,Direct Farmer,Machinery,21,133.97,0.0,5,0,2813.37,2813.37,1125.35
+ORD-1064,North,Direct Farmer,Hardware,12,265.93,0.0,3,0,3191.16,3191.16,893.52
+ORD-1065,South,Direct Farmer,Hardware,19,70.03,0.15,1,0,1330.57,1130.98,216.88
+ORD-1066,North,Direct Farmer,Machinery,14,204.57,0.2,5,0,2863.98,2291.18,630.07
+ORD-1067,West,Direct Farmer,Machinery,17,254.08,0.15,4,0,4319.36,3671.46,1144.63
+ORD-1068,North,Direct Farmer,Office Tech,24,333.07,0.05,4,0,7993.68,7594.0,1470.84
+ORD-1069,West,Direct Farmer,Hardware,21,476.25,0.1,5,0,10001.25,9001.12,2020.25
+ORD-1070,West,Direct Farmer,Office Tech,3,308.31,0.05,5,0,924.93,878.68,170.19
+ORD-1071,North,Distributor,Logistics Supplies,23,376.93,0.05,5,0,8669.39,8235.92,1265.73
+ORD-1072,North,Direct Farmer,Office Tech,7,263.01,0.0,4,0,1841.07,1841.07,405.04
+ORD-1073,West,Retail Co-op,Hardware,17,324.37,0.05,4,0,5514.29,5238.58,1328.95
+ORD-1074,East,Retail Co-op,Machinery,12,54.05,0.0,4,0,648.6,648.6,259.44
+ORD-1075,East,Distributor,Hardware,9,142.11,0.0,3,0,1278.99,1278.99,358.12
+ORD-1076,West,Direct Farmer,Hardware,15,193.69,0.15,4,0,2905.35,2469.55,473.57
+ORD-1077,North,Retail Co-op,Logistics Supplies,18,246.8,0.0,3,0,4442.4,4442.4,799.63
+ORD-1078,South,Distributor,Hardware,21,41.91,0.0,5,0,880.11,880.11,246.43
+ORD-1079,North,Distributor,Machinery,13,87.21,0.0,4,0,1133.73,1133.73,453.49
+ORD-1080,West,Commercial Enterprise,Office Tech,21,152.87,0.2,4,0,3210.27,2568.22,243.98
+ORD-1081,East,Direct Farmer,Office Tech,8,486.34,0.05,4,0,3890.72,3696.18,715.89
+ORD-1082,South,Direct Farmer,Office Tech,14,179.05,0.05,2,0,2506.7,2381.36,461.23
+ORD-1083,North,Commercial Enterprise,Hardware,8,251.38,0.15,1,0,2011.04,1709.38,327.8
+ORD-1084,South,Distributor,Machinery,14,114.13,0.15,4,0,1597.82,1358.15,423.42
+ORD-1085,South,Retail Co-op,Office Tech,7,313.17,0.0,2,0,2192.19,2192.19,482.28
+ORD-1086,East,Retail Co-op,Hardware,23,154.73,0.1,4,0,3558.79,3202.91,718.88
+ORD-1087,East,Direct Farmer,Machinery,12,119.36,0.1,5,0,1432.32,1289.09,444.02
+ORD-1088,West,Commercial Enterprise,Hardware,11,267.95,0.1,5,1,2947.45,2652.7,595.38
+ORD-1089,South,Direct Farmer,Hardware,22,22.64,0.0,4,0,498.08,498.08,139.46
+ORD-1090,North,Direct Farmer,Machinery,22,23.68,0.15,3,0,520.96,442.82,138.06
+ORD-1091,East,Retail Co-op,Hardware,11,125.15,0.05,5,0,1376.65,1307.82,331.77
+ORD-1092,West,Retail Co-op,Office Tech,22,37.63,0.0,5,0,827.86,827.86,182.13
+ORD-1093,East,Direct Farmer,Office Tech,13,71.85,0.05,3,0,934.05,887.35,171.87
+ORD-1094,West,Direct Farmer,Office Tech,18,182.65,0.0,4,0,3287.7,3287.7,723.29
+ORD-1095,South,Commercial Enterprise,Hardware,2,405.24,0.0,3,0,810.48,810.48,226.93
+ORD-1096,South,Direct Farmer,Hardware,21,294.58,0.1,5,0,6186.18,5567.56,1249.61
+ORD-1097,South,Retail Co-op,Hardware,15,266.08,0.0,5,0,3991.2,3991.2,1117.54
+ORD-1098,North,Direct Farmer,Office Tech,20,160.87,0.05,1,0,3217.4,3056.53,592.0
+ORD-1099,North,Retail Co-op,Office Tech,18,467.24,0.05,5,0,8410.32,7989.8,1547.5
+ORD-1100,North,Retail Co-op,Hardware,15,210.57,0.0,4,0,3158.55,3158.55,884.39
+ORD-1101,East,Direct Farmer,Logistics Supplies,19,61.8,0.2,5,1,1174.2,939.36,51.66
+ORD-1102,South,Direct Farmer,Hardware,23,316.19,0.0,4,0,7272.37,7272.37,2036.26
+ORD-1103,South,Direct Farmer,Office Tech,24,74.64,0.0,5,1,1791.36,1791.36,394.1
+ORD-1104,West,Direct Farmer,Office Tech,12,185.71,0.0,2,0,2228.52,2228.52,490.27
+ORD-1105,North,Distributor,Logistics Supplies,13,263.56,0.0,3,0,3426.28,3426.28,616.73
+ORD-1106,South,Direct Farmer,Office Tech,22,439.63,0.0,2,0,9671.86,9671.86,2127.81
+ORD-1107,West,Commercial Enterprise,Office Tech,11,256.9,0.1,5,0,2825.9,2543.31,418.23
+ORD-1108,North,Direct Farmer,Machinery,5,357.08,0.2,5,0,1785.4,1428.32,392.79
+ORD-1109,North,Commercial Enterprise,Office Tech,1,496.55,0.0,5,0,496.55,496.55,109.24
+ORD-1110,North,Commercial Enterprise,Hardware,24,83.11,0.1,5,0,1994.64,1795.18,402.92
+ORD-1111,North,Retail Co-op,Logistics Supplies,3,151.87,0.1,2,1,455.61,410.05,51.03
+ORD-1112,West,Retail Co-op,Office Tech,22,209.4,0.15,4,0,4606.8,3915.78,515.96
+ORD-1113,West,Retail Co-op,Office Tech,19,222.48,0.05,2,0,4227.12,4015.76,777.79
+ORD-1114,East,Direct Farmer,Machinery,23,217.29,0.0,3,0,4997.67,4997.67,1999.07
+ORD-1115,West,Distributor,Office Tech,7,455.65,0.0,3,0,3189.55,3189.55,701.7
+ORD-1116,West,Commercial Enterprise,Office Tech,12,362.74,0.1,4,0,4352.88,3917.59,644.23
+ORD-1117,North,Distributor,Office Tech,15,311.79,0.15,3,0,4676.85,3975.32,523.81
+ORD-1118,West,Direct Farmer,Hardware,5,168.5,0.0,2,1,842.5,842.5,235.9
+ORD-1119,South,Commercial Enterprise,Hardware,15,415.42,0.0,3,0,6231.3,6231.3,1744.76
+ORD-1120,West,Distributor,Hardware,8,478.43,0.2,2,0,3827.44,3061.95,474.6
+ORD-1121,West,Direct Farmer,Hardware,10,414.18,0.15,5,0,4141.8,3520.53,675.11
+ORD-1122,South,Direct Farmer,Logistics Supplies,16,20.75,0.2,5,1,332.0,265.6,14.61
+ORD-1123,North,Commercial Enterprise,Hardware,8,325.47,0.1,5,0,2603.76,2343.38,525.96
+ORD-1124,North,Retail Co-op,Logistics Supplies,1,44.54,0.0,4,0,44.54,44.54,8.02
+ORD-1125,South,Commercial Enterprise,Machinery,12,143.65,0.05,3,0,1723.8,1637.61,611.95
+ORD-1126,West,Direct Farmer,Hardware,5,48.57,0.1,5,0,242.85,218.56,49.05
+ORD-1127,West,Commercial Enterprise,Office Tech,3,309.82,0.0,3,0,929.46,929.46,204.48
+ORD-1128,North,Direct Farmer,Office Tech,1,349.56,0.05,3,0,349.56,332.08,64.32
+ORD-1129,South,Direct Farmer,Machinery,4,74.95,0.1,3,0,299.8,269.82,92.94
+ORD-1130,South,Direct Farmer,Office Tech,8,204.24,0.0,2,0,1633.92,1633.92,359.46
+ORD-1131,North,Commercial Enterprise,Office Tech,3,238.99,0.1,3,0,716.97,645.27,106.11
+ORD-1132,North,Commercial Enterprise,Hardware,10,197.15,0.05,4,0,1971.5,1872.92,475.13
+ORD-1133,South,Retail Co-op,Logistics Supplies,2,78.09,0.2,4,0,156.18,124.94,6.87
+ORD-1134,West,Retail Co-op,Logistics Supplies,11,221.09,0.0,2,0,2431.99,2431.99,437.76
+ORD-1135,South,Distributor,Office Tech,10,380.57,0.0,3,0,3805.7,3805.7,837.25
+ORD-1136,South,Retail Co-op,Hardware,21,54.08,0.05,5,0,1135.68,1078.9,273.7
+ORD-1137,East,Commercial Enterprise,Office Tech,14,58.49,0.0,2,0,818.86,818.86,180.15
+ORD-1138,South,Retail Co-op,Hardware,7,190.29,0.1,3,0,1332.03,1198.83,269.07
+ORD-1139,West,Retail Co-op,Hardware,2,472.03,0.1,5,1,944.06,849.65,190.7
+ORD-1140,West,Retail Co-op,Hardware,9,340.91,0.0,3,0,3068.19,3068.19,859.09
+ORD-1141,North,Direct Farmer,Machinery,16,345.76,0.05,2,0,5532.16,5255.55,1963.92
+ORD-1142,South,Commercial Enterprise,Logistics Supplies,13,193.72,0.05,4,0,2518.36,2392.44,367.68
+ORD-1143,South,Retail Co-op,Office Tech,9,304.96,0.0,3,0,2744.64,2744.64,603.82
+ORD-1144,North,Direct Farmer,Office Tech,20,24.86,0.2,4,0,497.2,397.76,37.79
+ORD-1145,North,Distributor,Machinery,4,325.33,0.15,5,0,1301.32,1106.12,344.85
+ORD-1146,East,Retail Co-op,Machinery,22,458.38,0.1,2,0,10084.36,9075.92,3126.15
+ORD-1147,South,Retail Co-op,Machinery,10,314.04,0.1,4,0,3140.4,2826.36,973.52
+ORD-1148,North,Distributor,Logistics Supplies,22,439.38,0.05,4,0,9666.36,9183.04,1411.29
+ORD-1149,North,Commercial Enterprise,Hardware,12,367.51,0.2,2,0,4410.12,3528.1,546.86
+ORD-1150,West,Direct Farmer,Logistics Supplies,17,77.87,0.1,4,0,1323.79,1191.41,148.26
+ORD-1151,North,Distributor,Office Tech,14,453.18,0.1,3,0,6344.52,5710.07,938.99
+ORD-1152,North,Commercial Enterprise,Machinery,14,51.89,0.15,4,0,726.46,617.49,192.51
+ORD-1153,South,Direct Farmer,Office Tech,2,276.3,0.0,2,1,552.6,552.6,121.57
+ORD-1154,West,Direct Farmer,Machinery,21,88.23,0.15,4,0,1852.83,1574.91,491.0
+ORD-1155,North,Commercial Enterprise,Logistics Supplies,20,25.62,0.0,3,0,512.4,512.4,92.23
+ORD-1156,East,Commercial Enterprise,Logistics Supplies,11,222.58,0.0,5,0,2448.38,2448.38,440.71
+ORD-1157,West,Retail Co-op,Machinery,16,161.62,0.0,2,0,2585.92,2585.92,1034.37
+ORD-1158,North,Distributor,Hardware,19,253.28,0.2,4,0,4812.32,3849.86,596.73
+ORD-1159,East,Commercial Enterprise,Office Tech,23,297.06,0.15,4,0,6832.38,5807.52,765.23
+ORD-1160,South,Direct Farmer,Logistics Supplies,6,40.99,0.1,4,0,245.94,221.35,27.55
+ORD-1161,East,Direct Farmer,Hardware,24,79.04,0.1,4,0,1896.96,1707.26,383.18
+ORD-1162,East,Direct Farmer,Office Tech,19,288.15,0.05,4,0,5474.85,5201.11,1007.37
+ORD-1163,South,Commercial Enterprise,Office Tech,5,184.72,0.2,5,0,923.6,738.88,70.19
+ORD-1164,North,Direct Farmer,Office Tech,4,370.0,0.05,5,0,1480.0,1406.0,272.32
+ORD-1165,West,Retail Co-op,Hardware,15,333.1,0.0,3,0,4996.5,4996.5,1399.02
+ORD-1166,South,Commercial Enterprise,Office Tech,4,425.89,0.0,4,1,1703.56,1703.56,374.78
+ORD-1167,North,Distributor,Logistics Supplies,20,352.4,0.1,5,0,7048.0,6343.2,789.38
+ORD-1168,North,Direct Farmer,Hardware,10,226.37,0.1,5,0,2263.7,2037.33,457.27
+ORD-1169,East,Commercial Enterprise,Hardware,24,343.02,0.0,5,0,8232.48,8232.48,2305.09
+ORD-1170,East,Direct Farmer,Logistics Supplies,22,152.18,0.0,4,1,3347.96,3347.96,602.63
+ORD-1171,North,Commercial Enterprise,Hardware,3,167.03,0.15,3,0,501.09,425.93,81.68
+ORD-1172,South,Direct Farmer,Logistics Supplies,5,398.71,0.0,4,0,1993.55,1993.55,358.84
+ORD-1173,North,Retail Co-op,Machinery,6,234.28,0.1,4,0,1405.68,1265.11,435.76
+ORD-1174,East,Commercial Enterprise,Hardware,21,403.22,0.2,4,0,8467.62,6774.1,1049.99
+ORD-1175,North,Direct Farmer,Logistics Supplies,22,414.76,0.05,4,0,9124.72,8668.48,1332.21
+ORD-1176,East,Direct Farmer,Machinery,8,431.63,0.0,5,0,3453.04,3453.04,1381.22
+ORD-1177,South,Commercial Enterprise,Office Tech,7,459.98,0.1,4,0,3219.86,2897.87,476.54
+ORD-1178,West,Commercial Enterprise,Machinery,21,226.87,0.15,5,0,4764.27,4049.63,1262.53
+ORD-1179,North,Commercial Enterprise,Office Tech,10,173.06,0.05,4,0,1730.6,1644.07,318.43
+ORD-1180,South,Commercial Enterprise,Hardware,6,299.46,0.2,3,0,1796.76,1437.41,222.8
+ORD-1181,North,Retail Co-op,Machinery,14,198.16,0.0,4,0,2774.24,2774.24,1109.7
+ORD-1182,West,Direct Farmer,Logistics Supplies,4,308.52,0.05,5,0,1234.08,1172.38,180.18
+ORD-1183,West,Direct Farmer,Hardware,13,358.68,0.1,2,0,4662.84,4196.56,941.89
+ORD-1184,North,Direct Farmer,Office Tech,20,350.43,0.15,3,0,7008.6,5957.31,784.96
+ORD-1185,East,Distributor,Machinery,17,199.79,0.0,5,0,3396.43,3396.43,1358.57
+ORD-1186,West,Retail Co-op,Office Tech,23,100.09,0.15,3,0,2302.07,1956.76,257.83
+ORD-1187,East,Retail Co-op,Hardware,7,226.65,0.05,4,0,1586.55,1507.22,382.36
+ORD-1188,South,Retail Co-op,Logistics Supplies,4,88.45,0.0,4,0,353.8,353.8,63.68
+ORD-1189,North,Distributor,Machinery,14,447.25,0.0,4,0,6261.5,6261.5,2504.6
+ORD-1190,North,Direct Farmer,Hardware,3,186.02,0.15,4,0,558.06,474.35,90.96
+ORD-1191,West,Retail Co-op,Hardware,24,94.14,0.0,3,0,2259.36,2259.36,632.62
+ORD-1192,West,Retail Co-op,Hardware,5,32.21,0.0,4,0,161.05,161.05,45.09
+ORD-1193,East,Commercial Enterprise,Office Tech,16,329.99,0.0,4,0,5279.84,5279.84,1161.56
+ORD-1194,South,Direct Farmer,Machinery,23,325.71,0.15,4,0,7491.33,6367.63,1985.2
+ORD-1195,South,Distributor,Office Tech,20,183.49,0.1,2,0,3669.8,3302.82,543.13
+ORD-1196,East,Distributor,Machinery,4,54.42,0.1,4,0,217.68,195.91,67.48
+ORD-1197,West,Retail Co-op,Hardware,24,216.62,0.0,3,0,5198.88,5198.88,1455.69
+ORD-1198,West,Commercial Enterprise,Office Tech,24,169.38,0.05,3,1,4065.12,3861.86,747.98
+ORD-1199,West,Distributor,Office Tech,2,345.02,0.05,3,0,690.04,655.54,126.97
+ORD-1200,East,Commercial Enterprise,Hardware,18,310.77,0.15,3,0,5593.86,4754.78,911.8
+ORD-1201,North,Direct Farmer,Hardware,19,195.0,0.2,5,0,3705.0,2964.0,459.42
+ORD-1202,North,Retail Co-op,Hardware,19,124.59,0.0,3,0,2367.21,2367.21,662.82
+ORD-1203,West,Commercial Enterprise,Office Tech,17,494.26,0.1,5,0,8402.42,7562.18,1243.56
+ORD-1204,East,Retail Co-op,Office Tech,14,237.92,0.0,5,0,3330.88,3330.88,732.79
+ORD-1205,North,Commercial Enterprise,Machinery,19,350.37,0.05,4,0,6657.03,6324.18,2363.25
+ORD-1206,North,Distributor,Office Tech,22,87.47,0.0,2,0,1924.34,1924.34,423.35
+ORD-1207,East,Distributor,Office Tech,24,253.08,0.0,4,0,6073.92,6073.92,1336.26
+ORD-1208,North,Retail Co-op,Office Tech,13,33.22,0.0,5,0,431.86,431.86,95.01
+ORD-1209,North,Direct Farmer,Logistics Supplies,12,262.62,0.05,4,0,3151.44,2993.87,460.11
+ORD-1210,South,Distributor,Hardware,6,482.73,0.0,2,0,2896.38,2896.38,810.99
+ORD-1211,East,Commercial Enterprise,Hardware,21,204.42,0.1,4,0,4292.82,3863.54,867.15
+ORD-1212,East,Direct Farmer,Hardware,4,38.72,0.05,5,0,154.88,147.14,37.33
+ORD-1213,North,Distributor,Hardware,19,34.86,0.0,5,0,662.34,662.34,185.46
+ORD-1214,East,Distributor,Office Tech,16,206.23,0.1,3,0,3299.68,2969.71,488.35
+ORD-1215,North,Retail Co-op,Logistics Supplies,13,96.81,0.0,4,0,1258.53,1258.53,226.54
+ORD-1216,South,Retail Co-op,Hardware,4,31.21,0.05,3,0,124.84,118.6,30.09
+ORD-1217,East,Retail Co-op,Hardware,23,382.98,0.1,3,1,8808.54,7927.69,1779.33
+ORD-1218,East,Direct Farmer,Machinery,17,240.09,0.0,5,0,4081.53,4081.53,1632.61
+ORD-1219,West,Direct Farmer,Logistics Supplies,23,158.84,0.0,3,0,3653.32,3653.32,657.6
+ORD-1220,East,Commercial Enterprise,Machinery,1,452.04,0.0,3,0,452.04,452.04,180.82
+ORD-1221,East,Direct Farmer,Office Tech,18,75.75,0.2,1,0,1363.5,1090.8,103.63
+ORD-1222,North,Direct Farmer,Hardware,20,478.84,0.05,5,0,9576.8,9097.96,2308.01
+ORD-1223,South,Retail Co-op,Hardware,17,170.7,0.1,5,0,2901.9,2611.71,586.18
+ORD-1224,North,Retail Co-op,Logistics Supplies,15,446.43,0.05,4,0,6696.45,6361.63,977.68
+ORD-1225,North,Distributor,Logistics Supplies,11,309.41,0.0,5,0,3403.51,3403.51,612.63
+ORD-1226,West,Direct Farmer,Hardware,22,416.82,0.05,3,0,9170.04,8711.54,2209.98
+ORD-1227,South,Direct Farmer,Logistics Supplies,13,492.33,0.1,4,0,6400.29,5760.26,716.83
+ORD-1228,West,Commercial Enterprise,Office Tech,1,158.43,0.0,4,1,158.43,158.43,34.85
+ORD-1229,East,Retail Co-op,Logistics Supplies,17,481.35,0.0,2,0,8182.95,8182.95,1472.93
+ORD-1230,West,Direct Farmer,Machinery,6,206.95,0.0,4,0,1241.7,1241.7,496.68
+ORD-1231,South,Retail Co-op,Office Tech,4,205.05,0.05,5,0,820.2,779.19,150.92
+ORD-1232,East,Direct Farmer,Machinery,20,183.39,0.2,1,0,3667.8,2934.24,806.92
+ORD-1233,South,Direct Farmer,Office Tech,16,279.88,0.0,3,0,4478.08,4478.08,985.18
+ORD-1234,North,Retail Co-op,Hardware,15,93.99,0.05,3,0,1409.85,1339.36,339.77
+ORD-1235,East,Retail Co-op,Hardware,15,285.78,0.0,3,0,4286.7,4286.7,1200.28
+ORD-1236,North,Distributor,Machinery,6,280.02,0.2,5,0,1680.12,1344.1,369.63
+ORD-1237,North,Retail Co-op,Office Tech,15,385.71,0.0,4,0,5785.65,5785.65,1272.84
+ORD-1238,East,Retail Co-op,Hardware,14,420.15,0.05,4,0,5882.1,5588.0,1417.59
+ORD-1239,North,Commercial Enterprise,Office Tech,11,231.41,0.1,5,0,2545.51,2290.96,376.74
+ORD-1240,West,Direct Farmer,Logistics Supplies,7,165.12,0.1,3,1,1155.84,1040.26,129.45
+ORD-1241,West,Commercial Enterprise,Hardware,9,144.48,0.05,4,0,1300.32,1235.3,313.38
+ORD-1242,West,Direct Farmer,Office Tech,16,113.42,0.0,4,0,1814.72,1814.72,399.24
+ORD-1243,South,Distributor,Machinery,5,47.67,0.0,4,0,238.35,238.35,95.34
+ORD-1244,North,Direct Farmer,Logistics Supplies,20,184.38,0.0,5,1,3687.6,3687.6,663.77
+ORD-1245,West,Retail Co-op,Hardware,10,149.72,0.0,5,0,1497.2,1497.2,419.22
+ORD-1246,South,Direct Farmer,Office Tech,18,483.88,0.05,4,0,8709.84,8274.35,1602.61
+ORD-1247,West,Distributor,Office Tech,3,287.7,0.0,5,0,863.1,863.1,189.88
+ORD-1248,West,Retail Co-op,Logistics Supplies,13,186.69,0.0,3,0,2426.97,2426.97,436.85
+ORD-1249,West,Retail Co-op,Office Tech,11,298.62,0.1,1,0,3284.82,2956.34,486.15
+ORD-1250,North,Direct Farmer,Machinery,17,86.81,0.2,3,0,1475.77,1180.62,324.67
+ORD-1251,South,Commercial Enterprise,Office Tech,22,233.14,0.05,3,1,5129.08,4872.63,943.75
+ORD-1252,West,Direct Farmer,Logistics Supplies,13,320.59,0.0,4,0,4167.67,4167.67,750.18
+ORD-1253,South,Distributor,Office Tech,6,254.67,0.0,4,0,1528.02,1528.02,336.16
+ORD-1254,North,Direct Farmer,Hardware,17,212.85,0.2,5,0,3618.45,2894.76,448.69
+ORD-1255,East,Direct Farmer,Logistics Supplies,13,497.05,0.0,4,0,6461.65,6461.65,1163.1
+ORD-1256,West,Direct Farmer,Office Tech,19,442.55,0.0,4,1,8408.45,8408.45,1849.86
+ORD-1257,East,Retail Co-op,Office Tech,21,319.23,0.05,2,0,6703.83,6368.64,1233.51
+ORD-1258,East,Retail Co-op,Hardware,19,293.3,0.05,1,0,5572.7,5294.06,1343.02
+ORD-1259,North,Direct Farmer,Office Tech,10,317.92,0.05,4,0,3179.2,3020.24,584.97
+ORD-1260,East,Commercial Enterprise,Machinery,3,116.63,0.0,4,0,349.89,349.89,139.96
+ORD-1261,West,Retail Co-op,Office Tech,14,209.67,0.0,5,0,2935.38,2935.38,645.78
+ORD-1262,North,Retail Co-op,Hardware,19,38.94,0.2,3,0,739.86,591.89,91.74
+ORD-1263,South,Retail Co-op,Office Tech,5,248.26,0.0,1,0,1241.3,1241.3,273.09
+ORD-1264,West,Retail Co-op,Logistics Supplies,5,280.65,0.1,4,1,1403.25,1262.92,157.16
+ORD-1265,East,Retail Co-op,Hardware,20,129.32,0.1,3,0,2586.4,2327.76,522.45
+ORD-1266,East,Direct Farmer,Logistics Supplies,17,482.73,0.05,1,1,8206.41,7796.09,1198.14
+ORD-1267,East,Direct Farmer,Machinery,21,456.54,0.0,4,0,9587.34,9587.34,3834.94
+ORD-1268,South,Distributor,Logistics Supplies,10,366.63,0.0,2,0,3666.3,3666.3,659.93
+ORD-1269,North,Distributor,Office Tech,5,276.03,0.05,4,0,1380.15,1311.14,253.95
+ORD-1270,West,Retail Co-op,Office Tech,4,437.59,0.15,3,0,1750.36,1487.81,196.04
+ORD-1271,West,Direct Farmer,Office Tech,6,82.71,0.2,3,0,496.26,397.01,37.72
+ORD-1272,West,Commercial Enterprise,Logistics Supplies,4,399.44,0.0,4,0,1597.76,1597.76,287.6
+ORD-1273,West,Retail Co-op,Machinery,7,79.91,0.0,5,0,559.37,559.37,223.75
+ORD-1274,South,Direct Farmer,Machinery,7,401.22,0.2,4,0,2808.54,2246.83,617.88
+ORD-1275,South,Direct Farmer,Office Tech,18,152.37,0.1,5,0,2742.66,2468.39,405.91
+ORD-1276,West,Commercial Enterprise,Office Tech,3,441.0,0.15,2,0,1323.0,1124.55,148.18
+ORD-1277,East,Commercial Enterprise,Office Tech,1,473.14,0.0,5,0,473.14,473.14,104.09
+ORD-1278,East,Direct Farmer,Office Tech,24,91.42,0.05,3,0,2194.08,2084.38,403.71
+ORD-1279,West,Direct Farmer,Machinery,4,242.08,0.1,4,0,968.32,871.49,300.18
+ORD-1280,West,Direct Farmer,Office Tech,6,490.87,0.1,4,0,2945.22,2650.7,435.89
+ORD-1281,South,Commercial Enterprise,Hardware,9,252.04,0.05,5,0,2268.36,2154.94,546.67
+ORD-1282,South,Direct Farmer,Office Tech,22,434.5,0.0,4,0,9559.0,9559.0,2102.98
+ORD-1283,North,Direct Farmer,Hardware,14,302.59,0.05,2,0,4236.26,4024.45,1020.94
+ORD-1284,East,Commercial Enterprise,Machinery,12,200.16,0.0,1,0,2401.92,2401.92,960.77
+ORD-1285,North,Direct Farmer,Machinery,20,157.18,0.05,5,0,3143.6,2986.42,1115.98
+ORD-1286,South,Commercial Enterprise,Machinery,24,117.55,0.2,4,0,2821.2,2256.96,620.66
+ORD-1287,South,Direct Farmer,Office Tech,4,385.66,0.0,5,0,1542.64,1542.64,339.38
+ORD-1288,North,Direct Farmer,Machinery,21,205.54,0.15,3,1,4316.34,3668.89,1143.83
+ORD-1289,East,Direct Farmer,Machinery,24,265.41,0.0,3,0,6369.84,6369.84,2547.94
+ORD-1290,North,Commercial Enterprise,Hardware,12,256.32,0.1,1,0,3075.84,2768.26,621.32
+ORD-1291,North,Distributor,Machinery,10,297.09,0.2,5,0,2970.9,2376.72,653.6
+ORD-1292,West,Commercial Enterprise,Hardware,22,435.48,0.0,4,0,9580.56,9580.56,2682.56
+ORD-1293,South,Retail Co-op,Hardware,7,490.75,0.0,5,0,3435.25,3435.25,961.87
+ORD-1294,North,Commercial Enterprise,Office Tech,3,215.64,0.05,3,0,646.92,614.57,119.03
+ORD-1295,South,Direct Farmer,Office Tech,23,417.21,0.0,4,0,9595.83,9595.83,2111.08
+ORD-1296,West,Direct Farmer,Office Tech,14,386.97,0.1,4,1,5417.58,4875.82,801.8
+ORD-1297,North,Distributor,Machinery,24,295.29,0.2,3,0,7086.96,5669.57,1559.13
+ORD-1298,East,Direct Farmer,Machinery,10,478.9,0.05,5,0,4789.0,4549.55,1700.1
+ORD-1299,North,Direct Farmer,Logistics Supplies,16,116.23,0.0,5,0,1859.68,1859.68,334.74
+ORD-1300,North,Direct Farmer,Office Tech,16,72.45,0.05,5,0,1159.2,1101.24,213.29
+ORD-1301,South,Direct Farmer,Machinery,22,429.9,0.1,4,0,9457.8,8512.02,2931.92
+ORD-1302,South,Direct Farmer,Hardware,10,230.79,0.0,3,0,2307.9,2307.9,646.21
+ORD-1303,East,Retail Co-op,Machinery,13,426.55,0.05,3,0,5545.15,5267.89,1968.53
+ORD-1304,East,Retail Co-op,Machinery,6,448.68,0.05,5,0,2692.08,2557.48,955.69
+ORD-1305,West,Distributor,Machinery,12,49.98,0.05,1,0,599.76,569.77,212.91
+ORD-1306,South,Commercial Enterprise,Office Tech,9,444.06,0.0,4,1,3996.54,3996.54,879.24
+ORD-1307,South,Direct Farmer,Office Tech,13,235.19,0.1,4,0,3057.47,2751.72,452.5
+ORD-1308,West,Direct Farmer,Office Tech,4,265.01,0.0,4,0,1060.04,1060.04,233.21
+ORD-1309,North,Retail Co-op,Office Tech,24,320.76,0.0,5,1,7698.24,7698.24,1693.61
+ORD-1310,South,Retail Co-op,Office Tech,11,464.66,0.15,3,0,5111.26,4344.57,572.46
+ORD-1311,North,Direct Farmer,Office Tech,20,29.18,0.1,3,0,583.6,525.24,86.37
+ORD-1312,North,Commercial Enterprise,Logistics Supplies,18,248.88,0.0,2,0,4479.84,4479.84,806.37
+ORD-1313,West,Retail Co-op,Hardware,11,350.11,0.0,4,0,3851.21,3851.21,1078.34
+ORD-1314,West,Retail Co-op,Hardware,21,366.9,0.0,3,0,7704.9,7704.9,2157.37
+ORD-1315,East,Retail Co-op,Hardware,4,352.42,0.0,3,0,1409.68,1409.68,394.71
+ORD-1316,South,Direct Farmer,Office Tech,18,84.53,0.0,5,1,1521.54,1521.54,334.74
+ORD-1317,North,Distributor,Logistics Supplies,1,163.71,0.0,5,0,163.71,163.71,29.47
+ORD-1318,North,Commercial Enterprise,Hardware,7,192.18,0.05,3,0,1345.26,1278.0,324.21
+ORD-1319,North,Direct Farmer,Logistics Supplies,6,406.13,0.1,4,0,2436.78,2193.1,272.92
+ORD-1320,South,Distributor,Hardware,15,153.8,0.05,5,1,2307.0,2191.65,555.99
+ORD-1321,East,Retail Co-op,Logistics Supplies,18,121.14,0.1,2,0,2180.52,1962.47,244.22
+ORD-1322,East,Distributor,Machinery,24,479.58,0.0,2,1,11509.92,11509.92,4603.97
+ORD-1323,North,Commercial Enterprise,Hardware,11,24.25,0.2,3,0,266.75,213.4,33.08
+ORD-1324,West,Retail Co-op,Machinery,20,498.95,0.15,4,0,9979.0,8482.15,2644.44
+ORD-1325,East,Direct Farmer,Hardware,24,344.87,0.15,3,0,8276.88,7035.35,1349.13
+ORD-1326,East,Direct Farmer,Hardware,15,417.67,0.15,5,0,6265.05,5325.29,1021.2
+ORD-1327,East,Retail Co-op,Machinery,16,161.42,0.2,4,0,2582.72,2066.18,568.2
+ORD-1328,South,Commercial Enterprise,Office Tech,7,26.87,0.05,4,0,188.09,178.69,34.61
+ORD-1329,North,Direct Farmer,Office Tech,21,374.18,0.0,3,0,7857.78,7857.78,1728.71
+ORD-1330,South,Direct Farmer,Machinery,10,420.39,0.05,4,0,4203.9,3993.7,1492.38
+ORD-1331,West,Commercial Enterprise,Office Tech,12,375.43,0.1,4,0,4505.16,4054.64,666.76
+ORD-1332,North,Distributor,Office Tech,24,88.57,0.1,5,1,2125.68,1913.11,314.6
+ORD-1333,North,Retail Co-op,Hardware,14,381.65,0.05,5,0,5343.1,5075.94,1287.69
+ORD-1334,North,Direct Farmer,Machinery,5,389.08,0.0,4,0,1945.4,1945.4,778.16
+ORD-1335,North,Direct Farmer,Hardware,21,336.1,0.0,5,0,7058.1,7058.1,1976.27
+ORD-1336,West,Direct Farmer,Hardware,18,387.74,0.2,5,0,6979.32,5583.46,865.44
+ORD-1337,East,Distributor,Office Tech,5,426.04,0.05,5,0,2130.2,2023.69,391.96
+ORD-1338,South,Direct Farmer,Hardware,3,314.53,0.05,2,0,943.59,896.41,227.41
+ORD-1339,North,Retail Co-op,Office Tech,23,62.53,0.0,1,0,1438.19,1438.19,316.4
+ORD-1340,South,Direct Farmer,Office Tech,5,254.06,0.0,3,0,1270.3,1270.3,279.47
+ORD-1341,South,Retail Co-op,Hardware,24,57.27,0.15,4,0,1374.48,1168.31,224.04
+ORD-1342,North,Commercial Enterprise,Office Tech,17,215.62,0.1,4,0,3665.54,3298.99,542.5
+ORD-1343,South,Commercial Enterprise,Hardware,19,215.41,0.1,4,0,4092.79,3683.51,826.74
+ORD-1344,South,Direct Farmer,Logistics Supplies,19,51.68,0.05,5,0,981.92,932.82,143.36
+ORD-1345,East,Direct Farmer,Machinery,21,187.43,0.05,5,0,3936.03,3739.23,1397.29
+ORD-1346,East,Direct Farmer,Office Tech,12,73.28,0.0,5,0,879.36,879.36,193.46
+ORD-1347,North,Distributor,Office Tech,9,407.95,0.1,3,0,3671.55,3304.4,543.39
+ORD-1348,South,Distributor,Hardware,1,474.89,0.05,4,1,474.89,451.15,114.45
+ORD-1349,East,Retail Co-op,Office Tech,18,54.71,0.05,3,0,984.78,935.54,181.2
+ORD-1350,South,Commercial Enterprise,Logistics Supplies,21,478.46,0.05,3,0,10047.66,9545.28,1466.96
+ORD-1351,West,Commercial Enterprise,Office Tech,4,270.84,0.2,3,0,1083.36,866.69,82.34
+ORD-1352,East,Direct Farmer,Office Tech,10,163.79,0.0,3,0,1637.9,1637.9,360.34
+ORD-1353,North,Distributor,Logistics Supplies,7,56.89,0.15,4,0,398.23,338.5,31.06
+ORD-1354,North,Retail Co-op,Hardware,22,260.3,0.0,5,0,5726.6,5726.6,1603.45
+ORD-1355,East,Retail Co-op,Hardware,23,401.37,0.05,2,0,9231.51,8769.93,2224.79
+ORD-1356,North,Retail Co-op,Office Tech,1,359.4,0.0,4,0,359.4,359.4,79.07
+ORD-1357,East,Direct Farmer,Machinery,17,44.11,0.0,4,0,749.87,749.87,299.95
+ORD-1358,West,Direct Farmer,Office Tech,24,54.99,0.05,3,0,1319.76,1253.77,242.84
+ORD-1359,East,Commercial Enterprise,Logistics Supplies,2,213.38,0.0,4,0,426.76,426.76,76.82
+ORD-1360,South,Direct Farmer,Machinery,11,161.74,0.05,3,0,1779.14,1690.18,631.59
+ORD-1361,East,Commercial Enterprise,Hardware,9,131.54,0.2,4,0,1183.86,947.09,146.8
+ORD-1362,South,Direct Farmer,Office Tech,7,154.88,0.0,4,0,1084.16,1084.16,238.52
+ORD-1363,South,Retail Co-op,Hardware,22,405.67,0.1,3,0,8924.74,8032.27,1802.8
+ORD-1364,West,Direct Farmer,Office Tech,17,466.03,0.05,2,0,7922.51,7526.38,1457.74
+ORD-1365,South,Retail Co-op,Machinery,17,214.45,0.1,4,0,3645.65,3281.08,1130.15
+ORD-1366,West,Commercial Enterprise,Office Tech,2,454.93,0.0,5,0,909.86,909.86,200.17
+ORD-1367,West,Direct Farmer,Hardware,6,174.32,0.0,3,0,1045.92,1045.92,292.86
+ORD-1368,North,Retail Co-op,Office Tech,14,248.69,0.0,4,0,3481.66,3481.66,765.97
+ORD-1369,North,Retail Co-op,Machinery,6,128.49,0.0,4,0,770.94,770.94,308.38
+ORD-1370,North,Commercial Enterprise,Office Tech,2,327.43,0.0,5,0,654.86,654.86,144.07
+ORD-1371,North,Distributor,Hardware,1,489.91,0.1,5,0,489.91,440.92,98.96
+ORD-1372,North,Commercial Enterprise,Office Tech,10,309.68,0.15,4,0,3096.8,2632.28,346.84
+ORD-1373,East,Direct Farmer,Logistics Supplies,21,191.75,0.15,4,0,4026.75,3422.74,314.09
+ORD-1374,North,Direct Farmer,Hardware,5,330.95,0.1,5,0,1654.75,1489.28,334.26
+ORD-1375,South,Direct Farmer,Hardware,2,79.0,0.0,4,0,158.0,158.0,44.24
+ORD-1376,West,Retail Co-op,Hardware,22,446.56,0.0,3,0,9824.32,9824.32,2750.81
+ORD-1377,North,Direct Farmer,Office Tech,16,261.48,0.0,1,0,4183.68,4183.68,920.41
+ORD-1378,West,Retail Co-op,Office Tech,2,235.69,0.0,5,0,471.38,471.38,103.7
+ORD-1379,North,Retail Co-op,Office Tech,10,301.22,0.05,5,0,3012.2,2861.59,554.24
+ORD-1380,North,Direct Farmer,Hardware,2,319.9,0.05,2,0,639.8,607.81,154.19
+ORD-1381,East,Commercial Enterprise,Machinery,16,54.45,0.0,4,1,871.2,871.2,348.48
+ORD-1382,East,Direct Farmer,Office Tech,16,347.66,0.0,4,0,5562.56,5562.56,1223.76
+ORD-1383,West,Direct Farmer,Machinery,19,136.13,0.15,2,0,2586.47,2198.5,685.41
+ORD-1384,East,Commercial Enterprise,Logistics Supplies,7,362.7,0.1,5,0,2538.9,2285.01,284.36
+ORD-1385,West,Retail Co-op,Hardware,22,414.82,0.0,3,0,9126.04,9126.04,2555.29
+ORD-1386,North,Commercial Enterprise,Office Tech,12,405.9,0.2,2,0,4870.8,3896.64,370.18
+ORD-1387,North,Retail Co-op,Machinery,24,285.2,0.2,4,0,6844.8,5475.84,1505.86
+ORD-1388,West,Direct Farmer,Machinery,15,269.68,0.0,4,0,4045.2,4045.2,1618.08
+ORD-1389,West,Commercial Enterprise,Office Tech,8,88.58,0.0,1,1,708.64,708.64,155.9
+ORD-1390,West,Commercial Enterprise,Office Tech,6,392.17,0.05,4,0,2353.02,2235.37,432.96
+ORD-1391,South,Commercial Enterprise,Logistics Supplies,10,150.28,0.2,4,0,1502.8,1202.24,66.12
+ORD-1392,South,Direct Farmer,Hardware,3,258.41,0.15,2,0,775.23,658.95,126.36
+ORD-1393,West,Retail Co-op,Hardware,19,156.45,0.0,3,0,2972.55,2972.55,832.31
+ORD-1394,South,Retail Co-op,Office Tech,17,84.24,0.0,4,0,1432.08,1432.08,315.06
+ORD-1395,West,Direct Farmer,Office Tech,7,322.19,0.05,3,0,2255.33,2142.56,414.98
+ORD-1396,West,Distributor,Hardware,21,46.08,0.05,5,0,967.68,919.3,233.21
+ORD-1397,South,Direct Farmer,Hardware,20,379.35,0.0,5,0,7587.0,7587.0,2124.36
+ORD-1398,West,Distributor,Hardware,4,172.44,0.15,5,0,689.76,586.3,112.43
+ORD-1399,West,Retail Co-op,Logistics Supplies,14,20.06,0.1,3,1,280.84,252.76,31.45
+ORD-1400,North,Direct Farmer,Hardware,20,265.34,0.15,5,0,5306.8,4510.78,865.01
+ORD-1401,West,Retail Co-op,Machinery,22,42.49,0.15,4,1,934.78,794.56,247.72
+ORD-1402,South,Distributor,Hardware,15,152.56,0.1,3,0,2288.4,2059.56,462.26
+ORD-1403,West,Commercial Enterprise,Machinery,24,359.35,0.05,2,0,8624.4,8193.18,3061.66
+ORD-1404,South,Commercial Enterprise,Hardware,8,50.09,0.05,2,0,400.72,380.68,96.57
+ORD-1405,West,Commercial Enterprise,Office Tech,21,422.88,0.0,4,0,8880.48,8880.48,1953.71
+ORD-1406,South,Commercial Enterprise,Hardware,15,21.83,0.1,4,0,327.45,294.7,66.14
+ORD-1407,North,Commercial Enterprise,Office Tech,22,138.48,0.0,3,0,3046.56,3046.56,670.24
+ORD-1408,West,Direct Farmer,Hardware,20,375.63,0.1,4,0,7512.6,6761.34,1517.55
+ORD-1409,North,Retail Co-op,Office Tech,14,171.81,0.0,3,0,2405.34,2405.34,529.17
+ORD-1410,South,Direct Farmer,Logistics Supplies,9,68.91,0.0,4,0,620.19,620.19,111.63
+ORD-1411,West,Distributor,Office Tech,8,192.91,0.0,4,0,1543.28,1543.28,339.52
+ORD-1412,West,Distributor,Office Tech,17,149.79,0.0,5,0,2546.43,2546.43,560.21
+ORD-1413,East,Direct Farmer,Machinery,2,424.5,0.1,5,0,849.0,764.1,263.19
+ORD-1414,East,Commercial Enterprise,Machinery,24,170.41,0.1,4,0,4089.84,3680.86,1267.85
+ORD-1415,South,Distributor,Office Tech,3,398.69,0.05,4,0,1196.07,1136.27,220.08
+ORD-1416,North,Direct Farmer,Logistics Supplies,8,448.1,0.0,4,1,3584.8,3584.8,645.26
+ORD-1417,South,Retail Co-op,Office Tech,12,228.23,0.0,5,0,2738.76,2738.76,602.53
+ORD-1418,East,Distributor,Office Tech,1,456.77,0.0,3,0,456.77,456.77,100.49
+ORD-1419,West,Direct Farmer,Office Tech,10,201.11,0.0,3,0,2011.1,2011.1,442.44
+ORD-1420,West,Commercial Enterprise,Machinery,20,482.76,0.15,2,0,9655.2,8206.92,2558.63
+ORD-1421,West,Direct Farmer,Hardware,3,62.86,0.0,4,0,188.58,188.58,52.8
+ORD-1422,North,Distributor,Office Tech,6,349.77,0.0,4,0,2098.62,2098.62,461.7
+ORD-1423,South,Distributor,Logistics Supplies,7,257.03,0.0,5,0,1799.21,1799.21,323.86
+ORD-1424,North,Distributor,Hardware,20,206.07,0.0,3,0,4121.4,4121.4,1153.99
+ORD-1425,South,Retail Co-op,Office Tech,23,323.7,0.05,4,0,7445.1,7072.84,1369.9
+ORD-1426,South,Distributor,Hardware,18,357.85,0.05,5,0,6441.3,6119.24,1552.35
+ORD-1427,West,Commercial Enterprise,Office Tech,11,22.09,0.0,5,0,242.99,242.99,53.46
+ORD-1428,South,Direct Farmer,Hardware,19,100.14,0.0,4,1,1902.66,1902.66,532.74
+ORD-1429,North,Commercial Enterprise,Machinery,5,362.26,0.0,4,0,1811.3,1811.3,724.52
+ORD-1430,North,Direct Farmer,Office Tech,19,339.86,0.0,3,0,6457.34,6457.34,1420.61
+ORD-1431,West,Retail Co-op,Machinery,11,483.7,0.0,5,0,5320.7,5320.7,2128.28
+ORD-1432,East,Direct Farmer,Office Tech,24,385.3,0.2,2,0,9247.2,7397.76,702.79
+ORD-1433,North,Direct Farmer,Office Tech,12,476.37,0.05,5,1,5716.44,5430.62,1051.83
+ORD-1434,North,Direct Farmer,Logistics Supplies,10,357.22,0.05,4,0,3572.2,3393.59,521.54
+ORD-1435,East,Commercial Enterprise,Hardware,8,163.07,0.05,4,0,1304.56,1239.33,314.4
+ORD-1436,North,Direct Farmer,Machinery,24,70.58,0.05,1,0,1693.92,1609.22,601.34
+ORD-1437,West,Commercial Enterprise,Hardware,9,395.28,0.05,4,0,3557.52,3379.64,857.36
+ORD-1438,East,Direct Farmer,Logistics Supplies,4,329.19,0.1,4,0,1316.76,1185.08,147.48
+ORD-1439,North,Direct Farmer,Logistics Supplies,5,43.13,0.1,3,0,215.65,194.08,24.15
+ORD-1440,North,Retail Co-op,Office Tech,21,192.82,0.0,4,1,4049.22,4049.22,890.83
+ORD-1441,West,Commercial Enterprise,Office Tech,8,479.26,0.05,5,0,3834.08,3642.38,705.47
+ORD-1442,South,Direct Farmer,Office Tech,23,260.19,0.05,4,0,5984.37,5685.15,1101.12
+ORD-1443,South,Commercial Enterprise,Office Tech,9,227.71,0.15,4,0,2049.39,1741.98,229.53
+ORD-1444,West,Distributor,Hardware,15,239.7,0.05,2,0,3595.5,3415.72,866.51
+ORD-1445,West,Commercial Enterprise,Office Tech,15,120.26,0.05,4,0,1803.9,1713.7,331.92
+ORD-1446,West,Direct Farmer,Hardware,16,196.98,0.0,2,0,3151.68,3151.68,882.47
+ORD-1447,West,Direct Farmer,Office Tech,14,197.51,0.05,4,0,2765.14,2626.88,508.79
+ORD-1448,South,Distributor,Office Tech,8,45.13,0.0,5,0,361.04,361.04,79.43
+ORD-1449,North,Direct Farmer,Office Tech,18,388.43,0.0,4,0,6991.74,6991.74,1538.18
+ORD-1450,West,Distributor,Hardware,10,219.92,0.0,2,0,2199.2,2199.2,615.78
+ORD-1451,East,Retail Co-op,Machinery,20,414.65,0.1,4,0,8293.0,7463.7,2570.83
+ORD-1452,South,Distributor,Hardware,6,428.17,0.0,4,0,2569.02,2569.02,719.33
+ORD-1453,West,Commercial Enterprise,Machinery,12,121.76,0.0,4,0,1461.12,1461.12,584.45
+ORD-1454,North,Distributor,Hardware,2,335.53,0.15,5,0,671.06,570.4,109.38
+ORD-1455,South,Retail Co-op,Logistics Supplies,7,246.7,0.0,5,0,1726.9,1726.9,310.84
+ORD-1456,North,Commercial Enterprise,Office Tech,16,442.48,0.05,4,0,7079.68,6725.7,1302.66
+ORD-1457,South,Retail Co-op,Machinery,3,123.56,0.05,4,1,370.68,352.15,131.59
+ORD-1458,North,Retail Co-op,Machinery,13,345.35,0.0,3,0,4489.55,4489.55,1795.82
+ORD-1459,North,Commercial Enterprise,Machinery,3,311.72,0.1,2,0,935.16,841.64,289.9
+ORD-1460,North,Distributor,Office Tech,18,161.74,0.0,4,0,2911.32,2911.32,640.49
+ORD-1461,East,Distributor,Office Tech,11,85.57,0.05,4,0,941.27,894.21,173.19
+ORD-1462,East,Commercial Enterprise,Logistics Supplies,8,332.79,0.05,4,0,2662.32,2529.2,388.7
+ORD-1463,East,Retail Co-op,Machinery,6,374.53,0.05,4,1,2247.18,2134.82,797.75
+ORD-1464,West,Retail Co-op,Logistics Supplies,1,171.5,0.1,2,0,171.5,154.35,19.21
+ORD-1465,South,Commercial Enterprise,Logistics Supplies,1,329.52,0.0,4,1,329.52,329.52,59.31
+ORD-1466,North,Direct Farmer,Hardware,23,209.66,0.0,3,1,4822.18,4822.18,1350.21
+ORD-1467,West,Direct Farmer,Logistics Supplies,8,362.34,0.1,3,0,2898.72,2608.85,324.66
+ORD-1468,North,Retail Co-op,Hardware,5,115.62,0.05,5,0,578.1,549.2,139.32
+ORD-1469,West,Direct Farmer,Office Tech,16,447.3,0.15,1,0,7156.8,6083.28,801.56
+ORD-1470,North,Direct Farmer,Machinery,11,157.96,0.15,4,0,1737.56,1476.93,460.46
+ORD-1471,West,Direct Farmer,Logistics Supplies,5,196.54,0.15,3,0,982.7,835.3,76.65
+ORD-1472,North,Direct Farmer,Logistics Supplies,4,47.88,0.05,5,0,191.52,181.94,27.96
+ORD-1473,West,Direct Farmer,Office Tech,6,73.53,0.0,4,0,441.18,441.18,97.06
+ORD-1474,South,Distributor,Office Tech,14,267.61,0.1,3,0,3746.54,3371.89,554.49
+ORD-1475,West,Retail Co-op,Machinery,22,148.44,0.05,4,0,3265.68,3102.4,1159.32
+ORD-1476,North,Retail Co-op,Hardware,19,421.03,0.0,4,0,7999.57,7999.57,2239.88
+ORD-1477,East,Commercial Enterprise,Machinery,9,27.05,0.15,5,0,243.45,206.93,64.51
+ORD-1478,West,Direct Farmer,Hardware,12,201.97,0.15,3,0,2423.64,2060.09,395.05
+ORD-1479,South,Distributor,Office Tech,11,181.93,0.05,5,0,2001.23,1901.17,368.23
+ORD-1480,East,Commercial Enterprise,Machinery,14,29.28,0.0,5,0,409.92,409.92,163.97
+ORD-1481,East,Direct Farmer,Logistics Supplies,23,79.7,0.0,5,0,1833.1,1833.1,329.96
+ORD-1482,South,Retail Co-op,Office Tech,16,218.55,0.15,4,0,3496.8,2972.28,391.64
+ORD-1483,East,Distributor,Office Tech,1,256.58,0.2,4,0,256.58,205.26,19.5
+ORD-1484,East,Distributor,Hardware,13,214.06,0.0,4,0,2782.78,2782.78,779.18
+ORD-1485,West,Retail Co-op,Logistics Supplies,23,274.85,0.0,5,0,6321.55,6321.55,1137.88
+ORD-1486,North,Commercial Enterprise,Logistics Supplies,21,305.66,0.15,4,0,6418.86,5456.03,500.67
+ORD-1487,North,Direct Farmer,Machinery,21,24.76,0.0,4,0,519.96,519.96,207.98
+ORD-1488,West,Distributor,Office Tech,13,242.77,0.05,4,0,3156.01,2998.21,580.71
+ORD-1489,West,Direct Farmer,Office Tech,2,482.48,0.2,4,0,964.96,771.97,73.34
+ORD-1490,South,Distributor,Hardware,4,269.14,0.0,5,0,1076.56,1076.56,301.44
+ORD-1491,East,Commercial Enterprise,Office Tech,6,345.22,0.05,2,0,2071.32,1967.75,381.12
+ORD-1492,North,Commercial Enterprise,Machinery,23,169.69,0.0,5,0,3902.87,3902.87,1561.15
+ORD-1493,North,Retail Co-op,Hardware,5,391.52,0.0,4,0,1957.6,1957.6,548.13
+ORD-1494,South,Direct Farmer,Machinery,3,391.0,0.15,5,0,1173.0,997.05,310.85
+ORD-1495,South,Direct Farmer,Hardware,1,270.22,0.05,4,0,270.22,256.71,65.12
+ORD-1496,East,Direct Farmer,Hardware,4,488.49,0.2,4,0,1953.96,1563.17,242.29
+ORD-1497,North,Direct Farmer,Hardware,20,80.26,0.05,5,0,1605.2,1524.94,386.85
+ORD-1498,West,Commercial Enterprise,Logistics Supplies,2,28.13,0.0,3,0,56.26,56.26,10.13
+ORD-1499,West,Retail Co-op,Office Tech,5,389.68,0.0,5,0,1948.4,1948.4,428.65
+ORD-1500,East,Direct Farmer,Logistics Supplies,3,407.43,0.0,4,0,1222.29,1222.29,220.01
+ORD-1501,South,Distributor,Machinery,9,77.7,0.0,4,0,699.3,699.3,279.72
+ORD-1502,South,Distributor,Machinery,20,147.48,0.0,3,0,2949.6,2949.6,1179.84
+ORD-1503,West,Distributor,Office Tech,6,28.43,0.0,4,0,170.58,170.58,37.53
+ORD-1504,East,Distributor,Machinery,18,160.79,0.05,3,1,2894.22,2749.51,1027.45
+ORD-1505,North,Direct Farmer,Hardware,6,391.11,0.1,1,0,2346.66,2111.99,474.02
+ORD-1506,West,Retail Co-op,Office Tech,19,268.62,0.1,3,0,5103.78,4593.4,755.36
+ORD-1507,West,Commercial Enterprise,Hardware,12,187.09,0.1,1,0,2245.08,2020.57,453.51
+ORD-1508,West,Commercial Enterprise,Office Tech,11,198.43,0.0,5,0,2182.73,2182.73,480.2
+ORD-1509,East,Direct Farmer,Office Tech,2,20.65,0.0,5,0,41.3,41.3,9.09
+ORD-1510,East,Commercial Enterprise,Hardware,15,163.9,0.1,4,0,2458.5,2212.65,496.62
+ORD-1511,South,Direct Farmer,Hardware,12,330.3,0.05,4,0,3963.6,3765.42,955.23
+ORD-1512,West,Direct Farmer,Office Tech,12,487.61,0.0,3,1,5851.32,5851.32,1287.29
+ORD-1513,West,Retail Co-op,Machinery,9,426.59,0.15,4,0,3839.31,3263.41,1017.42
+ORD-1514,North,Retail Co-op,Hardware,21,31.33,0.1,5,0,657.93,592.14,132.9
+ORD-1515,North,Retail Co-op,Logistics Supplies,24,451.31,0.05,5,0,10831.44,10289.87,1581.39
+ORD-1516,South,Direct Farmer,Hardware,2,395.94,0.0,4,0,791.88,791.88,221.73
+ORD-1517,West,Distributor,Office Tech,22,394.58,0.1,5,1,8680.76,7812.68,1284.75
+ORD-1518,West,Direct Farmer,Logistics Supplies,3,239.84,0.05,3,0,719.52,683.54,105.05
+ORD-1519,North,Direct Farmer,Hardware,12,211.04,0.1,5,0,2532.48,2279.23,511.56
+ORD-1520,East,Distributor,Hardware,16,165.4,0.1,1,0,2646.4,2381.76,534.57
+ORD-1521,South,Distributor,Hardware,21,51.53,0.15,4,0,1082.13,919.81,176.39
+ORD-1522,West,Distributor,Machinery,24,129.55,0.05,4,1,3109.2,2953.74,1103.77
+ORD-1523,West,Commercial Enterprise,Hardware,1,138.37,0.0,4,0,138.37,138.37,38.74
+ORD-1524,West,Commercial Enterprise,Office Tech,21,252.36,0.1,2,0,5299.56,4769.6,784.33
+ORD-1525,South,Retail Co-op,Hardware,3,378.77,0.05,5,0,1136.31,1079.49,273.85
+ORD-1526,South,Direct Farmer,Office Tech,20,247.43,0.1,3,0,4948.6,4453.74,732.39
+ORD-1527,North,Retail Co-op,Logistics Supplies,2,47.77,0.0,4,0,95.54,95.54,17.2
+ORD-1528,North,Retail Co-op,Office Tech,9,479.74,0.0,3,0,4317.66,4317.66,949.89
+ORD-1529,West,Direct Farmer,Office Tech,19,472.51,0.15,3,0,8977.69,7631.04,1005.5
+ORD-1530,West,Commercial Enterprise,Machinery,15,396.89,0.1,4,0,5953.35,5358.02,1845.54
+ORD-1531,West,Retail Co-op,Office Tech,18,495.84,0.2,4,0,8925.12,7140.1,678.31
+ORD-1532,West,Direct Farmer,Office Tech,11,281.35,0.1,3,0,3094.85,2785.36,458.04
+ORD-1533,East,Direct Farmer,Machinery,23,482.13,0.05,3,0,11088.99,10534.54,3936.59
+ORD-1534,West,Commercial Enterprise,Hardware,16,56.29,0.1,4,0,900.64,810.58,181.93
+ORD-1535,West,Direct Farmer,Logistics Supplies,22,195.53,0.15,5,0,4301.66,3656.41,335.53
+ORD-1536,West,Distributor,Machinery,17,128.18,0.05,5,0,2179.06,2070.11,773.57
+ORD-1537,North,Retail Co-op,Hardware,5,114.0,0.05,2,0,570.0,541.5,137.37
+ORD-1538,South,Retail Co-op,Machinery,12,87.59,0.0,4,0,1051.08,1051.08,420.43
+ORD-1539,North,Retail Co-op,Machinery,11,318.76,0.05,2,0,3506.36,3331.04,1244.76
+ORD-1540,West,Commercial Enterprise,Office Tech,15,395.03,0.1,1,0,5925.45,5332.9,876.97
+ORD-1541,East,Direct Farmer,Office Tech,3,297.58,0.0,4,0,892.74,892.74,196.4
+ORD-1542,North,Commercial Enterprise,Office Tech,1,90.54,0.0,4,0,90.54,90.54,19.92
+ORD-1543,East,Retail Co-op,Hardware,20,409.34,0.0,3,0,8186.8,8186.8,2292.3
+ORD-1544,East,Direct Farmer,Machinery,16,325.26,0.0,3,0,5204.16,5204.16,2081.66
+ORD-1545,South,Distributor,Machinery,2,206.32,0.0,1,1,412.64,412.64,165.06
+ORD-1546,North,Commercial Enterprise,Hardware,2,343.58,0.05,5,0,687.16,652.8,165.6
+ORD-1547,East,Commercial Enterprise,Hardware,3,144.75,0.2,5,0,434.25,347.4,53.85
+ORD-1548,South,Distributor,Office Tech,8,185.69,0.05,2,1,1485.52,1411.24,273.33
+ORD-1549,West,Distributor,Hardware,24,460.39,0.0,3,0,11049.36,11049.36,3093.82
+ORD-1550,South,Commercial Enterprise,Office Tech,15,159.44,0.0,5,0,2391.6,2391.6,526.15
+ORD-1551,West,Commercial Enterprise,Hardware,7,245.59,0.1,5,0,1719.13,1547.22,347.27
+ORD-1552,East,Commercial Enterprise,Hardware,6,447.27,0.0,4,0,2683.62,2683.62,751.41
+ORD-1553,East,Commercial Enterprise,Hardware,9,359.71,0.15,2,1,3237.39,2751.78,527.69
+ORD-1554,West,Commercial Enterprise,Logistics Supplies,20,49.86,0.1,1,1,997.2,897.48,111.69
+ORD-1555,South,Commercial Enterprise,Office Tech,1,90.71,0.1,4,0,90.71,81.64,13.43
+ORD-1556,North,Direct Farmer,Logistics Supplies,8,23.76,0.0,4,0,190.08,190.08,34.21
+ORD-1557,North,Distributor,Machinery,23,322.84,0.1,1,0,7425.32,6682.79,2301.85
+ORD-1558,West,Distributor,Hardware,23,234.88,0.0,4,0,5402.24,5402.24,1512.63
+ORD-1559,East,Direct Farmer,Office Tech,3,84.45,0.2,1,0,253.35,202.68,19.25
+ORD-1560,East,Commercial Enterprise,Machinery,4,479.81,0.05,5,1,1919.24,1823.28,681.33
+ORD-1561,North,Direct Farmer,Office Tech,15,274.24,0.0,3,0,4113.6,4113.6,904.99
+ORD-1562,North,Direct Farmer,Hardware,6,136.11,0.0,1,0,816.66,816.66,228.66
+ORD-1563,North,Commercial Enterprise,Machinery,15,260.29,0.0,4,0,3904.35,3904.35,1561.74
+ORD-1564,South,Direct Farmer,Hardware,21,346.22,0.1,4,0,7270.62,6543.56,1468.67
+ORD-1565,East,Commercial Enterprise,Machinery,3,56.59,0.0,5,0,169.77,169.77,67.91
+ORD-1566,South,Commercial Enterprise,Office Tech,21,151.86,0.05,4,0,3189.06,3029.61,586.79
+ORD-1567,South,Retail Co-op,Machinery,21,407.34,0.0,3,0,8554.14,8554.14,3421.66
+ORD-1568,West,Direct Farmer,Machinery,14,240.64,0.1,4,0,3368.96,3032.06,1044.38
+ORD-1569,South,Direct Farmer,Machinery,20,282.36,0.15,3,0,5647.2,4800.12,1496.51
+ORD-1570,South,Commercial Enterprise,Machinery,14,227.75,0.1,5,0,3188.5,2869.65,988.44
+ORD-1571,West,Distributor,Office Tech,4,41.07,0.1,4,0,164.28,147.85,24.31
+ORD-1572,South,Commercial Enterprise,Logistics Supplies,12,99.56,0.0,4,0,1194.72,1194.72,215.05
+ORD-1573,East,Direct Farmer,Logistics Supplies,17,233.86,0.0,2,1,3975.62,3975.62,715.61
+ORD-1574,West,Commercial Enterprise,Office Tech,7,120.41,0.1,4,0,842.87,758.58,124.74
+ORD-1575,West,Retail Co-op,Machinery,9,43.99,0.0,5,1,395.91,395.91,158.36
+ORD-1576,North,Commercial Enterprise,Office Tech,3,424.95,0.05,5,0,1274.85,1211.11,234.57
+ORD-1577,West,Direct Farmer,Machinery,13,490.97,0.0,3,0,6382.61,6382.61,2553.04
+ORD-1578,South,Commercial Enterprise,Hardware,15,400.71,0.0,3,0,6010.65,6010.65,1682.98
+ORD-1579,North,Retail Co-op,Office Tech,18,429.82,0.0,5,0,7736.76,7736.76,1702.09
+ORD-1580,South,Distributor,Hardware,19,136.15,0.15,5,1,2586.85,2198.82,421.66
+ORD-1581,West,Direct Farmer,Logistics Supplies,1,481.1,0.0,2,0,481.1,481.1,86.6
+ORD-1582,South,Commercial Enterprise,Machinery,6,114.52,0.05,4,0,687.12,652.76,243.93
+ORD-1583,South,Distributor,Office Tech,23,476.69,0.0,3,0,10963.87,10963.87,2412.05
+ORD-1584,East,Direct Farmer,Office Tech,2,497.51,0.1,5,0,995.02,895.52,147.26
+ORD-1585,North,Distributor,Logistics Supplies,24,361.63,0.0,2,0,8679.12,8679.12,1562.24
+ORD-1586,North,Commercial Enterprise,Office Tech,14,490.95,0.15,3,0,6873.3,5842.3,769.81
+ORD-1587,North,Direct Farmer,Office Tech,6,293.38,0.15,5,0,1760.28,1496.24,197.15
+ORD-1588,North,Direct Farmer,Hardware,14,144.58,0.0,2,0,2024.12,2024.12,566.75
+ORD-1589,North,Commercial Enterprise,Office Tech,4,229.76,0.2,4,0,919.04,735.23,69.85
+ORD-1590,North,Direct Farmer,Hardware,21,304.91,0.2,4,0,6403.11,5122.49,793.99
+ORD-1591,East,Retail Co-op,Office Tech,8,55.08,0.15,3,0,440.64,374.54,49.35
+ORD-1592,North,Direct Farmer,Office Tech,3,318.72,0.15,4,0,956.16,812.74,107.09
+ORD-1593,South,Commercial Enterprise,Office Tech,19,490.97,0.0,4,0,9328.43,9328.43,2052.25
+ORD-1594,West,Direct Farmer,Hardware,14,111.25,0.05,3,0,1557.5,1479.62,375.36
+ORD-1595,South,Distributor,Hardware,20,400.45,0.0,4,0,8009.0,8009.0,2242.52
+ORD-1596,East,Distributor,Office Tech,17,455.79,0.0,5,0,7748.43,7748.43,1704.65
+ORD-1597,North,Distributor,Hardware,8,472.98,0.2,5,1,3783.84,3027.07,469.2
+ORD-1598,North,Commercial Enterprise,Hardware,24,480.87,0.0,3,0,11540.88,11540.88,3231.45
+ORD-1599,North,Direct Farmer,Hardware,14,270.3,0.1,2,0,3784.2,3405.78,764.41
